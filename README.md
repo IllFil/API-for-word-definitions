@@ -1,4 +1,4 @@
-MyAPI is a simple API that provides definitions for words.
+# MyAPI is a simple API that provides definitions for words.
 
 ## Getting Started
 
@@ -10,11 +10,7 @@ To use MyAPI, follow these steps:
 
 ## Authentication
 
-MyAPI does not require authentication to access its endpoints.
-
-## API Documentation
-
-This document provides detailed documentation for the MyAPI.
+My API does not require authentication to access its endpoints.
 
 ### Endpoints
 
