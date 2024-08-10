@@ -1,8 +1,8 @@
-# MyAPI is a simple API that provides definitions for words.
+# Its a simple API that provides definitions for words.
 
 ## Getting Started
 
-To use MyAPI, follow these steps:
+To use API, follow these steps:
 
 1. Install the necessary dependencies.
 2. Clone the repository.
@@ -10,7 +10,7 @@ To use MyAPI, follow these steps:
 
 ## Authentication
 
-My API does not require authentication to access its endpoints.
+API does not require authentication to access its endpoints.
 
 ### Endpoints
 
